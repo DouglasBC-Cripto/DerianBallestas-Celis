@@ -1,2 +1,1 @@
-# DouglasBallestas-Celis
-Este es un repositorio de prueba del modulo 2 
+Este proyecto es una prueba de como crear un repositor y clonarlo des Git hub a nuestro a mi escritorio local
